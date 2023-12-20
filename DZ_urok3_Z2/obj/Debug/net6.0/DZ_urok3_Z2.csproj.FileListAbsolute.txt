@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\bin\Debug\net6.0\DZ_urok3_Z2.exe
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\bin\Debug\net6.0\DZ_urok3_Z2.deps.json
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\bin\Debug\net6.0\DZ_urok3_Z2.runtimeconfig.json
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\bin\Debug\net6.0\DZ_urok3_Z2.dll
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\bin\Debug\net6.0\DZ_urok3_Z2.pdb
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\obj\Debug\net6.0\DZ_urok3_Z2.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\obj\Debug\net6.0\DZ_urok3_Z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\obj\Debug\net6.0\DZ_urok3_Z2.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\obj\Debug\net6.0\DZ_urok3_Z2.AssemblyInfo.cs
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\obj\Debug\net6.0\DZ_urok3_Z2.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\obj\Debug\net6.0\DZ_urok3_Z2.dll
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\obj\Debug\net6.0\refint\DZ_urok3_Z2.dll
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\obj\Debug\net6.0\DZ_urok3_Z2.pdb
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\obj\Debug\net6.0\DZ_urok3_Z2.genruntimeconfig.cache
+C:\Users\DNS\Desktop\5515\DZ_urok3_Z2\obj\Debug\net6.0\ref\DZ_urok3_Z2.dll
